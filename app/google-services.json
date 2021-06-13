@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257698632276",
+    "project_id": "kotlindav",
+    "storage_bucket": "kotlindav.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257698632276:android:c34f91ad9ae66962bd13c1",
+        "android_client_info": {
+          "package_name": "com.example.kotlindavn9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257698632276-5egjt7j2jqb1qtcjfv3r4i4f6vsoccn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi0oy0qYJKBjBIQRTQEBiYU8id2xpIu9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257698632276-5egjt7j2jqb1qtcjfv3r4i4f6vsoccn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
